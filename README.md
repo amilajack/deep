@@ -4,7 +4,7 @@ This library contains utilities for manipulating deeply-nested data structures. 
 
 ## Installation
 
-    npm install deep
+    npm install deep --save
 
 ## Function reference
 
